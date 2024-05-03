@@ -1,0 +1,9 @@
+flet
+pandas
+seaborn
+simpledt
+matplotlib
+sklearn
+scikit-learn
+numpy
+scipy
